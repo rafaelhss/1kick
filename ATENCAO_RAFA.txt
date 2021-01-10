@@ -1,0 +1,2 @@
+na pasta android tem um arquivo key.properties que nao pode subir pro git.
+pra se ligar nele veja https://flutter.dev/docs/deployment/android#configure-signing-in-gradle na parte Reference the keystore from the app
